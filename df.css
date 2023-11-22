@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(64, 44, 13);
+}
+
+h1 {color: black;
+    background-color: rgb(167, 102, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90px;
+ }
+ h2{
+    font-size: 28px;
+ }
+
+ .container {
+    display:flex
+ }

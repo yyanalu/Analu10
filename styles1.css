@@ -1,0 +1,24 @@
+body {
+        background-color: rgb(244, 245, 169);
+}
+
+h1 {
+        color: aliceblue;
+        background-color: rgb(220, 179, 42);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 55px;
+        transition: background-color 0.3s ease-in-out; }
+
+        h1:hover{
+        background-color: rgb(231, 116, 16); }
+
+@keyframes milho { 
+
+50% { background-image: url(m1.png);}
+
+100% {background-image: url(milho.webp);}
+
+}
+
+.milho {animation: milho is linear infinite;}
+
